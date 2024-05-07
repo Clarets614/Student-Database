@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cstock\\source\\repos\\StudentDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC029A92-B169-4E1E-804F-EF6F4672E37C}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\cstock\\source\\repos\\studentdatabase\\studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC029A92-B169-4E1E-804F-EF6F4672E37C}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cstock\\source\\repos\\Day1LectureArrays\\Day1LectureArrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\Day1LectureArrays\\Day1LectureArrays\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day1LectureArrays\\Day1LectureArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\Day1LectureArrays\\Day1LectureArrays\\Program.cs",
+              "RelativeToolTip": "..\\Day1LectureArrays\\Day1LectureArrays\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAqwIAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:45:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeToolTip": "StudentDatabase\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:26:06.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
